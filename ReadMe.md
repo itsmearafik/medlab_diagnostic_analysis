@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview  
 
-![Medlab Operations Workflow Dashboard](#)
+![Medlab Operations Workflow Dashboard](https://github.com/itsmearafik/medlab_diagnostic_analysis/blob/main/dashboard.png)
 
 This Power BI analytics project delivers actionable insights for **MedLab Diagnostics**, a leading healthcare diagnostics provider in Kumasi. By analyzing patient visit data, test metrics, and revenue trends, this project identifies key opportunities to **boost patient retention, streamline operations, and maximize revenue**.  
 
